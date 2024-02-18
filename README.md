@@ -1,6 +1,6 @@
---
+---
 
-# Basketball Dribble Detection
+# Basketball Dribble Detection and Object Tracking
 
 This project implements a basketball dribble detection system using computer vision techniques. It consists of several Python scripts for custom train the yolov8, detecting basketball dribbles, calculating dribble count and average dribble frequency, and displaying the results on video frames.
 
@@ -51,4 +51,4 @@ This project implements a basketball dribble detection system using computer vis
 
 This project is licensed under the [MIT License](LICENSE).
 
---
+---
