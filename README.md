@@ -18,6 +18,8 @@ This project implements a basketball dribble detection system using computer vis
 
 - **output.avi**: This is the output of this project.
 
+- **WHATSAAP_train.avi**: This is the output of trained yolov8 model.
+
 - **requirements.txt**: This file lists the Python packages required for running the project along with their versions.
 
 ## Usage
